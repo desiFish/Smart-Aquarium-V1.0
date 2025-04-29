@@ -8,7 +8,7 @@ Automatic control system for aquarium maintenance using Arduino and DS3231 RTC m
 
 > ⚠️ **CAUTION**: This project involves working with electrical components and may require handling of high voltage connections. Always prioritize safety, use proper insulation, and consult with a qualified electrician if you're unsure about any aspect of the installation or operation.
 
-> 📢 **NOTE**: This project (V1.0) is now closed. For the latest updates and improvements, please check out [Smart Aquarium V3.0](https://github.com/desiFish/Smart-Aquarium-V3.0).
+> 📢 **Development Notice**: This NodeMCU ESP-12E version will no longer receive feature updates. A new ESP32 version: [Smart Aquarium V4.0](https://github.com/desiFish/Smart-Aquarium-V4.0) is under development that supports more powerful customization options and advanced monitoring features for aquarium inhabitants. Be the first ones to try it out and give feedbacks! 🚀
 
 ## 🔍 Features
 - Automated lighting control
